@@ -1,0 +1,16 @@
+Package: fy.sandwich.vibrantclock
+Version: 1.0.2
+Architecture: iphoneos-arm64
+Maintainer: Saadat Baig
+Installed-Size: 136
+Depends: mobilesubstrate
+Filename: ./debs/fy.sandwich.vibrantclock_1.0.2_iphoneos-arm64.deb
+Size: 2848
+MD5sum: 845e1dea7a64518320e441d98e2de5e3
+SHA1: 2aad4889ea92c795682a6f593f9f9df7317075b4
+SHA256: 481d824841cc4a238532a02a4d99c1e19936ad0a8b9df05bd654d349768b72ac
+Section: Tweaks
+Description: Make your clock vibrant!Add iOS 15 rootless support.
+Author: Saadat Baig,Sandwich
+Name: VibrantClock
+
