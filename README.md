@@ -1,1 +1,1 @@
-# mirror-rootless
+# rootless-repo
