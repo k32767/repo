@@ -1,0 +1,9 @@
+Origin: Sandwich's Repo
+Label: Sandwich's Repo
+Version: 1.1
+Architectures: iphoneos-arm iphoneos-arm64
+Components: main
+Codename: ominousness
+Description: Sandwich 私人源
+
+
