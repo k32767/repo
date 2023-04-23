@@ -1,3 +1,19 @@
+Package: fy.sandwich.qqmusicnoads
+Version: 1.0.0
+Architecture: iphoneos-arm64
+Maintainer: Sandwich
+Installed-Size: 2732
+Depends: mobilesubstrate
+Filename: ./debs/fy.sandwich.qqmusicnoads_1.0.0_iphoneos-arm64.deb
+Size: 7360
+MD5sum: 03d52746ec009d36ad64dbc9ce2b32bb
+SHA1: feb6a45c8210d86411c9985771e627e5197c5cc6
+SHA256: d49d9251f3780c67afa697d4f2ee5a8f3946c7c2b7ac0452db3d5242c15ec798
+Section: Tweaks
+Description: NoAds
+Author: Sandwich
+Name: QQMusicNoAds
+
 Package: fy.sandwich.vibrantclock
 Version: 1.0.2
 Architecture: iphoneos-arm64
