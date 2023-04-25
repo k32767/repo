@@ -1,3 +1,20 @@
+Package: com.jontelang.snapper2.packix
+Version: 2.6.0
+Architecture: iphoneos-arm64
+Maintainer: Jonathan Winger-lang
+Installed-Size: 1840
+Depends: mobilesubstrate, firmware (>= 12.1)
+Conflicts: com.jontelang.snapper, com.jontelang.snapper2
+Filename: ./debs/Snapper2.com.jontelang.snapper2.packix.deb
+Size: 410424
+MD5sum: c04be861eaf6b2278069ccb8821ab5fd
+SHA1: 828931f97896de1159e2eeca5df024a1c98f03c7
+SHA256: 8c8df7228eb440eeabb7865a33a43ea60d042e5fd5e5f87d0f6e831e05dd50fe
+Section: Tweaks
+Description: Pin screenshots on the screen.
+Author: Jonathan Winger-lang
+Name: Snapper 2
+
 Package: fy.sandwich.qqmusicnoads
 Version: 1.0.0
 Architecture: iphoneos-arm64
