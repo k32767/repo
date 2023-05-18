@@ -15,6 +15,22 @@ Description: Pin screenshots on the screen.
 Author: Jonathan Winger-lang
 Name: Snapper 2
 
+Package: de.saadat603.vibrantclock.rootless
+Version: 1.0.2-1+debug
+Architecture: iphoneos-arm64
+Maintainer: Saadat Baig,Sandwich
+Installed-Size: 168
+Depends: mobilesubstrate
+Filename: ./debs/de.saadat603.vibrantclock.rootless_1.0.2-1+debug_iphoneos-arm64.deb
+Size: 3452
+MD5sum: aafa08c8b00b9c55d3f8b4a9b99c6899
+SHA1: 95b7e05571b1c584bc5c9ad8942e40ab8218f31a
+SHA256: 23db77eea8c69bb991188ec07ba35b5a109d6b33d3905c8784a56a31f6bde2bb
+Section: Tweaks
+Description: Make your clock vibrant!更有活力的锁屏时钟！sandwich编译兼容rootless。
+Author: Saadat Baig,Sandwich
+Name: VibrantClock Rootless
+
 Package: fy.sandwich.qqmusicnoads
 Version: 1.0.0
 Architecture: iphoneos-arm64
@@ -30,20 +46,4 @@ Section: Tweaks
 Description: NoAds
 Author: Sandwich
 Name: QQMusicNoAds
-
-Package: fy.sandwich.vibrantclock
-Version: 1.0.2
-Architecture: iphoneos-arm64
-Maintainer: Saadat Baig
-Installed-Size: 136
-Depends: mobilesubstrate
-Filename: ./debs/fy.sandwich.vibrantclock_1.0.2_iphoneos-arm64.deb
-Size: 2848
-MD5sum: 845e1dea7a64518320e441d98e2de5e3
-SHA1: 2aad4889ea92c795682a6f593f9f9df7317075b4
-SHA256: 481d824841cc4a238532a02a4d99c1e19936ad0a8b9df05bd654d349768b72ac
-Section: Tweaks
-Description: Make your clock vibrant!Add iOS 15 rootless support.
-Author: Saadat Baig,Sandwich
-Name: VibrantClock
 
