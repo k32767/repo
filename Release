@@ -1,9 +1,9 @@
-Origin: Sandwich's Repo
-Label: Sandwich's Repo
+Origin: k's Repo
+Label: k's Repo
 Version: 1.1
 Architectures: iphoneos-arm iphoneos-arm64
 Components: main
 Codename: ominousness
-Description: Sandwich 私人源
+Description: 私人源
 
 
