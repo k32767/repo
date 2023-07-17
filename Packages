@@ -32,18 +32,18 @@ Author: Saadat Baig,Sandwich
 Name: VibrantClock Rootless
 
 Package: fy.sandwich.qqmusicnoads
-Version: 1.0.0
+Version: 1.0.2-1
 Architecture: iphoneos-arm64
-Maintainer: Sandwich
-Installed-Size: 2732
-Depends: mobilesubstrate
-Filename: ./debs/fy.sandwich.qqmusicnoads_1.0.0_iphoneos-arm64.deb
-Size: 7360
-MD5sum: 03d52746ec009d36ad64dbc9ce2b32bb
-SHA1: feb6a45c8210d86411c9985771e627e5197c5cc6
-SHA256: d49d9251f3780c67afa697d4f2ee5a8f3946c7c2b7ac0452db3d5242c15ec798
+Maintainer: Sandwich<funny@msn.com>
+Installed-Size: 216
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/fy.sandwich.qqmusicnoads_1.0.2-1_iphoneos-arm64.deb
+Size: 6978
+MD5sum: e67b5837d523478b5cbbc46b1d0af890
+SHA1: bc011f7c9ab2414395a8abf301267b344967c2f4
+SHA256: ed4805c2a56fb56c26feccd7d3436937abe3ad68021fc2781ca74b909358f30c
 Section: Tweaks
-Description: NoAds
+Description: 去除启动广告/去除播放器翻转广告/去除播放页底部弹出会员购买提醒/去除设置铃声提醒/去播放页在唱，在听/去除音乐空间/去除搜索时键盘上弹出来的语音输入图标/去除播放页底下可能出现的条幅/去除推荐歌单/去除播放页直播按钮/臻品音质试用/去除搜索框内滚动文字/禁止每次切换到主页都自动刷新一下/去除右下角偶尔出现的浮动广告/去除MV广告/去除过年会出现的现金红包雨/去除那年今日的挂件/去除播放页专辑图的MV推荐/去除顶部可能会弹出的购买会员提醒/去除个人中心的红点/去除制作歌曲海报展示/去除最近播放顶部出现的乱七八糟东西(可能是会员广告，也有别的东西)/去除播放页直播按钮/去除会员下载次数限制/个人中心的GIF只播放一次，而不是一直播放/标记为微云歌曲，点亮歌曲(可以收藏分享)
 Author: Sandwich
-Name: QQMusicNoAds
+Name: QQ音乐净化
 
