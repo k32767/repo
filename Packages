@@ -15,21 +15,21 @@ Description: Pin screenshots on the screen.
 Author: Jonathan Winger-lang
 Name: Snapper 2
 
-Package: fy.sandwich.qqmusicnoads
-Version: 1.0.2-1
+Package: de.saadat603.vibrantclock.rootless
+Version: 1.0.2-1+debug
 Architecture: iphoneos-arm64
-Maintainer: Sandwich<funny@msn.com>
-Installed-Size: 216
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/fy.sandwich.qqmusicnoads_1.0.2-1_iphoneos-arm64.deb
-Size: 6978
-MD5sum: e67b5837d523478b5cbbc46b1d0af890
-SHA1: bc011f7c9ab2414395a8abf301267b344967c2f4
-SHA256: ed4805c2a56fb56c26feccd7d3436937abe3ad68021fc2781ca74b909358f30c
+Maintainer: Saadat Baig,Sandwich
+Installed-Size: 168
+Depends: mobilesubstrate
+Filename: ./debs/de.saadat603.vibrantclock.rootless_1.0.2-1+debug_iphoneos-arm64.deb
+Size: 3452
+MD5sum: aafa08c8b00b9c55d3f8b4a9b99c6899
+SHA1: 95b7e05571b1c584bc5c9ad8942e40ab8218f31a
+SHA256: 23db77eea8c69bb991188ec07ba35b5a109d6b33d3905c8784a56a31f6bde2bb
 Section: Tweaks
-Description: 去除启动广告/去除播放器翻转广告/去除播放页底部弹出会员购买提醒/去除设置铃声提醒/去播放页在唱，在听/去除音乐空间/去除搜索时键盘上弹出来的语音输入图标/去除播放页底下可能出现的条幅/去除推荐歌单/去除播放页直播按钮/臻品音质试用/去除搜索框内滚动文字/禁止每次切换到主页都自动刷新一下/去除右下角偶尔出现的浮动广告/去除MV广告/去除过年会出现的现金红包雨/去除那年今日的挂件/去除播放页专辑图的MV推荐/去除顶部可能会弹出的购买会员提醒/去除个人中心的红点/去除制作歌曲海报展示/去除最近播放顶部出现的乱七八糟东西(可能是会员广告，也有别的东西)/去除播放页直播按钮/去除会员下载次数限制/个人中心的GIF只播放一次，而不是一直播放/标记为微云歌曲，点亮歌曲(可以收藏分享)
-Author: Sandwich
-Name: QQ音乐净化
+Description: Make your clock vibrant!更有活力的锁屏时钟！sandwich编译兼容rootless。
+Author: Saadat Baig,Sandwich
+Name: VibrantClock Rootless
 
 Package: fy.sandwich.qqmusicnoads
 Version: 1.0.3-1
