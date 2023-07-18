@@ -1,20 +1,3 @@
-Package: com.jontelang.snapper2.packix
-Version: 2.6.0
-Architecture: iphoneos-arm64
-Maintainer: Jonathan Winger-lang
-Installed-Size: 1840
-Depends: mobilesubstrate, firmware (>= 12.1)
-Conflicts: com.jontelang.snapper, com.jontelang.snapper2
-Filename: ./debs/Snapper2.com.jontelang.snapper2.packix.deb
-Size: 410424
-MD5sum: c04be861eaf6b2278069ccb8821ab5fd
-SHA1: 828931f97896de1159e2eeca5df024a1c98f03c7
-SHA256: 8c8df7228eb440eeabb7865a33a43ea60d042e5fd5e5f87d0f6e831e05dd50fe
-Section: Tweaks
-Description: Pin screenshots on the screen.
-Author: Jonathan Winger-lang
-Name: Snapper 2
-
 Package: de.saadat603.vibrantclock.rootless
 Version: 1.0.2-1+debug
 Architecture: iphoneos-arm64
@@ -31,19 +14,19 @@ Description: Make your clock vibrant!更有活力的锁屏时钟！sandwich编�
 Author: Saadat Baig,Sandwich
 Name: VibrantClock Rootless
 
-Package: fy.sandwich.qqmusicnoads
-Version: 1.0.3-1
+Package: k.sandwich.qqmusicnoads
+Version: 1.0.4-1
 Architecture: iphoneos-arm64
-Maintainer: Sandwich<funny@msn.com>
+Maintainer: k32767<funny@msn.com>
 Installed-Size: 216
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/fy.sandwich.qqmusicnoads_1.0.3-1_iphoneos-arm64.deb
-Size: 6914
-MD5sum: 2d9a585d1e1559bb836b580043642a9e
-SHA1: 2dc4645d4d06c058e761d1ed28b90c810ecb2f63
-SHA256: d6065bbdcecc5fa2183abed34d9a61bb18bb1d846199e62ee93d59eea55d11b2
+Filename: ./debs/k.sandwich.qqmusicnoads_1.0.4-1_iphoneos-arm64.deb
+Size: 7016
+MD5sum: 9cd3d4ba6b25c09b207c263dfb028a92
+SHA1: 56888c92d92beb7631d7a0e64ed9ce98115b1656
+SHA256: d178439a983b3b9a7b3db8bde0e4518865f7224cd35ae3539275f6ba03dccc6e
 Section: Tweaks
 Description: 去除启动广告/去除播放器翻转广告/去除播放页底部弹出会员购买提醒/去除设置铃声提醒/去播放页在唱在听/去除音乐空间/去除搜索时键盘上弹出来的语音输入图标/去除播放页底下可能出现的条幅/去除推荐歌单/去除播放页直播按钮/臻品音质试用/去除搜索框内滚动文字/禁止每次切换到主页都自动刷新一下/去除右下角偶尔出现的浮动广告/去除MV广告/去除过年会出现的现金红包雨/去除那年今日的挂件/去除播放页专辑图的MV推荐/去除顶部可能会弹出的购买会员提醒/去除个人中心的红点/去除制作歌曲海报展示/去除最近播放顶部出现的横幅/去除播放页直播按钮/去除会员下载次数限制/个人中心的GIF只播放一次/标记为微云歌曲，点亮歌曲(可收藏分享)
-Author: Sandwich
+Author: k32767
 Name: QQ音乐净化
 
