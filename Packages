@@ -1,3 +1,19 @@
+Package: com.subdiox.storeswitcher2.rootless
+Version: 1.0.2-1
+Architecture: iphoneos-arm64
+Maintainer: subdiox
+Installed-Size: 100
+Depends: firmware (>= 11), mobilesubstrate
+Filename: ./debs/com.subdiox.storeswitcher2.rootless_1.0.2-1_iphoneos-arm64.deb
+Size: 11966
+MD5sum: 565d6364ab0af93adb78cafa6b440538
+SHA1: b0cf8d8f0eb08c6e7166914c62ebd9040f9ac5a8
+SHA256: 0c3d7b1b6094388e2bf8a375ddef77999a60e8f00135ac9e44367fc39bfbaf0b
+Section: Tweaks
+Description: Adds a button to switch account in App Store account page on iOS 11+.
+Author: subdiox
+Name: StoreSwitcher 2
+
 Package: de.saadat603.vibrantclock.rootless
 Version: 1.0.2-1+debug
 Architecture: iphoneos-arm64
