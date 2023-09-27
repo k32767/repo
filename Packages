@@ -1,18 +1,18 @@
-Package: com.subdiox.storeswitcher2.rootless
-Version: 1.0.2-1
+Package: com.k32767.ktvme
+Version: 1.0.0-1
 Architecture: iphoneos-arm64
-Maintainer: subdiox
-Installed-Size: 100
-Depends: firmware (>= 11), mobilesubstrate
-Filename: ./debs/com.subdiox.storeswitcher2.rootless_1.0.2-1_iphoneos-arm64.deb
-Size: 11966
-MD5sum: 565d6364ab0af93adb78cafa6b440538
-SHA1: b0cf8d8f0eb08c6e7166914c62ebd9040f9ac5a8
-SHA256: 0c3d7b1b6094388e2bf8a375ddef77999a60e8f00135ac9e44367fc39bfbaf0b
+Maintainer: k32767<funny@msn.com>
+Installed-Size: 216
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.k32767.ktvme_1.0.0-1_iphoneos-arm64.deb
+Size: 5052
+MD5sum: 34a064680cc10ddc23af38bca15b6e88
+SHA1: c25972ca9414c67055cd4e01ad45c18f1edefa3f
+SHA256: d9be7bd316895baca55dae9049511a5828180ca480f82301acb7c07b51838347
 Section: Tweaks
-Description: Adds a button to switch account in App Store account page on iOS 11+.
-Author: subdiox
-Name: StoreSwitcher 2
+Description: K米去除启动广告/破解会员权限
+Author: k32767
+Name: KTVmeCrack
 
 Package: de.saadat603.vibrantclock.rootless
 Version: 1.0.2-1+debug
