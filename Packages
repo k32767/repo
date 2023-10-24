@@ -62,19 +62,35 @@ Description: 去除启动广告/去除播放器翻转广告/去除播放页底�
 Author: k32767
 Name: QQMusicNoAds Rootless
 
-Package: de.saadat603.vibrantclock.rootless
-Version: 1.0.2-1+debug
+Package: com.k32767.vibrantclock
+Version: 1.0.2-1
+Architecture: iphoneos-arm
+Maintainer: k32767<funny@msn.com>
+Installed-Size: 152
+Depends: mobilesubstrate
+Filename: ./debs/com.k32767.vibrantclock_1.0.2-1_iphoneos-arm.deb
+Size: 3186
+MD5sum: 12085042c61239bfc753a3580423224b
+SHA1: e6a47a8f33f383ed80cc5213e5673bc11dbb7f32
+SHA256: da8d7aa16656b72da53eaa07f400b7bd3484cbe872fb5fdfa124904a21ef7910
+Section: Tweaks
+Description: Make your clock vibrant!
+Author: k32767
+Name: VibrantClock
+
+Package: com.k32767.vibrantclock.rootless
+Version: 1.0.2-1
 Architecture: iphoneos-arm64
-Maintainer: Saadat Baig,Sandwich
+Maintainer: k32767<funny@msn.com>
 Installed-Size: 168
 Depends: mobilesubstrate
-Filename: ./debs/de.saadat603.vibrantclock.rootless_1.0.2-1+debug_iphoneos-arm64.deb
-Size: 3452
-MD5sum: aafa08c8b00b9c55d3f8b4a9b99c6899
-SHA1: 95b7e05571b1c584bc5c9ad8942e40ab8218f31a
-SHA256: 23db77eea8c69bb991188ec07ba35b5a109d6b33d3905c8784a56a31f6bde2bb
+Filename: ./debs/com.k32767.vibrantclock.rootless_1.0.2-1_iphoneos-arm64.deb
+Size: 2894
+MD5sum: 7addfb35efe7d4da337bf51aec0a26e0
+SHA1: cff25f29b0439252d276668a1145eefa51d90fcd
+SHA256: 8bd6de80eab7c591bbcf132be33fc2ece81b58d6d3dc9db9bbb0ac4c76bb1b33
 Section: Tweaks
-Description: Make your clock vibrant!更有活力的锁屏时钟！sandwich编译兼容rootless。
-Author: Saadat Baig,Sandwich
+Description: Make your clock vibrant!
+Author: k32767
 Name: VibrantClock Rootless
 
