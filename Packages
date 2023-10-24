@@ -1,18 +1,66 @@
 Package: com.k32767.ktvme
+Version: 1.0.0-2
+Architecture: iphoneos-arm
+Maintainer: k32767<funny@msn.com>
+Installed-Size: 216
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.k32767.ktvme_1.0.0-2_iphoneos-arm.deb
+Size: 5004
+MD5sum: 7f2d4c68daf51a2cd446c4e2e24c6606
+SHA1: fccd7fd53b386b3df886d5037b480e071d4add41
+SHA256: 73c9454cf3d336139945471a4c307f7e812f85e0ec8963a24ac45223b12af9e6
+Section: Tweaks
+Description: K米去除启动广告/破解会员权限
+Author: k32767
+Name: KTVmeCrack
+
+Package: com.k32767.ktvme.rootless
 Version: 1.0.0-1
 Architecture: iphoneos-arm64
 Maintainer: k32767<funny@msn.com>
 Installed-Size: 216
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/com.k32767.ktvme_1.0.0-1_iphoneos-arm64.deb
-Size: 5052
-MD5sum: 34a064680cc10ddc23af38bca15b6e88
-SHA1: c25972ca9414c67055cd4e01ad45c18f1edefa3f
-SHA256: d9be7bd316895baca55dae9049511a5828180ca480f82301acb7c07b51838347
+Filename: ./debs/com.k32767.ktvme.rootless_1.0.0-1_iphoneos-arm64.deb
+Size: 5062
+MD5sum: bb8cdc310617e93221cdf4f74fa50e8d
+SHA1: a7ee17dff91be28abfc2476aac13da1eecdba083
+SHA256: 94bf082b09efe2cdfef54d8de3f3337df30e467174013d13dcf6f8d80a757789
 Section: Tweaks
 Description: K米去除启动广告/破解会员权限
 Author: k32767
-Name: KTVmeCrack
+Name: KTVmeCrack Rootless
+
+Package: com.k32767.qqmusicnoads
+Version: 1.0.6-1
+Architecture: iphoneos-arm
+Maintainer: k32767<funny@msn.com>
+Installed-Size: 216
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.k32767.qqmusicnoads_1.0.6-1_iphoneos-arm.deb
+Size: 5772
+MD5sum: 2695b1f6a702ade6253ce51ad03954c4
+SHA1: 4a06981c3ef6bf8ca36a938e788db9ec6efc5830
+SHA256: f2dda4a85873b2fb01b2b8a5b38eb74356c5ac7b2b01ff41ca7f55eabc69acca
+Section: Tweaks
+Description: 去除启动广告/去除播放器翻转广告/去除播放页底部弹出会员购买提醒/去除设置铃声提醒/去播放页在唱在听/去除音乐空间/去除搜索时键盘上弹出来的语音输入图标/去除播放页底下可能出现的条幅/去除推荐歌单/去除播放页直播按钮/臻品音质试用/去除搜索框内滚动文字/禁止每次切换到主页都自动刷新一下/去除右下角偶尔出现的浮动广告/去除MV广告/去除过年会出现的现金红包雨/去除那年今日的挂件/去除播放页专辑图的MV推荐/去除顶部可能会弹出的购买会员提醒/去除个人中心的红点/去除制作歌曲海报展示/去除最近播放顶部出现的横幅/去除播放页直播按钮/去除会员下载次数限制/个人中心的GIF只播放一次/标记为微云歌曲，点亮歌曲(可收藏分享)/精简搜索页
+Author: k32767
+Name: QQMusicNoAds
+
+Package: com.k32767.qqmusicnoads.rootless
+Version: 1.0.6-2
+Architecture: iphoneos-arm64
+Maintainer: k32767<funny@msn.com>
+Installed-Size: 216
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.k32767.qqmusicnoads.rootless_1.0.6-2_iphoneos-arm64.deb
+Size: 8320
+MD5sum: 207fabfe2afe0015676ea0de68b6f3b4
+SHA1: d5ad07a410deed785acb3c6c8d2dcce4b4f98773
+SHA256: ec7b3b44788aa1468a03692e66945ad6fc4f71dec6dd7dcd94d9179a4fd1cffd
+Section: Tweaks
+Description: 去除启动广告/去除播放器翻转广告/去除播放页底部弹出会员购买提醒/去除设置铃声提醒/去播放页在唱在听/去除音乐空间/去除搜索时键盘上弹出来的语音输入图标/去除播放页底下可能出现的条幅/去除推荐歌单/去除播放页直播按钮/臻品音质试用/去除搜索框内滚动文字/禁止每次切换到主页都自动刷新一下/去除右下角偶尔出现的浮动广告/去除MV广告/去除过年会出现的现金红包雨/去除那年今日的挂件/去除播放页专辑图的MV推荐/去除顶部可能会弹出的购买会员提醒/去除个人中心的红点/去除制作歌曲海报展示/去除最近播放顶部出现的横幅/去除播放页直播按钮/去除会员下载次数限制/个人中心的GIF只播放一次/标记为微云歌曲，点亮歌曲(可收藏分享)/精简搜索页
+Author: k32767
+Name: QQMusicNoAds Rootless
 
 Package: de.saadat603.vibrantclock.rootless
 Version: 1.0.2-1+debug
@@ -29,20 +77,4 @@ Section: Tweaks
 Description: Make your clock vibrant!更有活力的锁屏时钟！sandwich编译兼容rootless。
 Author: Saadat Baig,Sandwich
 Name: VibrantClock Rootless
-
-Package: k.sandwich.qqmusicnoads
-Version: 1.0.5-3
-Architecture: iphoneos-arm64
-Maintainer: k32767<funny@msn.com>
-Installed-Size: 216
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/k.sandwich.qqmusicnoads_1.0.5-3_iphoneos-arm64.deb
-Size: 8320
-MD5sum: a20eb8e030196db92b3092b39a5def71
-SHA1: e5d9c61348f19966ba1e81ea93e3512788567c3e
-SHA256: 962a2e4b090a7f6bd232cfe6f13a75cf73296d8c0bb57d9bebbbdb364aa6d275
-Section: Tweaks
-Description: 去除启动广告/去除播放器翻转广告/去除播放页底部弹出会员购买提醒/去除设置铃声提醒/去播放页在唱在听/去除音乐空间/去除搜索时键盘上弹出来的语音输入图标/去除播放页底下可能出现的条幅/去除推荐歌单/去除播放页直播按钮/臻品音质试用/去除搜索框内滚动文字/禁止每次切换到主页都自动刷新一下/去除右下角偶尔出现的浮动广告/去除MV广告/去除过年会出现的现金红包雨/去除那年今日的挂件/去除播放页专辑图的MV推荐/去除顶部可能会弹出的购买会员提醒/去除个人中心的红点/去除制作歌曲海报展示/去除最近播放顶部出现的横幅/去除播放页直播按钮/去除会员下载次数限制/个人中心的GIF只播放一次/标记为微云歌曲，点亮歌曲(可收藏分享)/精简搜索页
-Author: k32767
-Name: QQ音乐净化
 
